@@ -13,6 +13,8 @@ function whileLoop (number){
   return 'done'
 }
 
+function doWhileLoop ()
+
 // function doWhileLoop (array){
 //   do {remove elements from the
 //     array until the array is empty}
