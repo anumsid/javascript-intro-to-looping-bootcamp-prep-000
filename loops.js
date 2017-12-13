@@ -17,3 +17,4 @@ function doWhileLoop (array){
   do {remove elements from the array until the array is empty}
     while(array.length > 0 && maybeTrue())
   return array
+}
